@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap");
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Black.woff2") format("woff2"),
+    url("../fonts/Lato-Black.woff") format("woff");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Bold.woff2") format("woff2"),
+    url("../fonts/Lato-Bold.woff") format("woff");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Regular.woff2") format("woff2"),
+    url("../fonts/Lato-Regular.woff") format("woff");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Larsseit";
+  src: url("../fonts/Larsseit.woff2") format("woff2"),
+    url("../fonts/Larsseit.woff") format("woff");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Larsseit";
+  src: url("../fonts/Larsseit-Medium.woff2") format("woff2"),
+    url("../fonts/Larsseit-Medium.woff") format("woff");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Larsseit";
+  src: url("../fonts/Larsseit-Bold.woff2") format("woff2"),
+    url("../fonts/Larsseit-Bold.woff") format("woff");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+body {
+  font-family: "Roboto";
+  font-style: italic;
+  font-size: large;
+  font-weight: 700;
+  text-align: center;
+}
+header {
+  border-bottom: 1px solid#000;
+}
+#top {
+  color: fuchsia;
+  font-family: "Larsseit";
+  font-weight: 700;
+}
+.title {
+  color: orangered;
+  font-family: "Lato";
+  font-weight: 900;
+}
+.fifth-floar {
+  color: green;
+}
+.fourth-floar {
+  color: blue;
+}
+.second-text {
+  color: turquoise;
+}
+.fourth-floar-text-one {
+  color: brown;
+}
+footer {
+  border-top: 1px solid#000;
+}
+li {
+  text-decoration: underline;
+}
+h3 {
+  font-size: x-large;
+  color: blue;
+}
+.title-h1 {
+  font-family: "Lato";
+  font-size: xx-large;
+  font-weight: 900;
+  font-style: normal;
+  color: #000;
+}
+.xbox {
+  font-family: "Larsseit";
+  font-size: xx-large;
+  font-weight: 900;
+  font-style: normal;
+  color: #000;
+}
+.link-youtube {
+  font-family: "Larsseit";
+  font-size: xx-large;
+  font-weight: 900;
+  font-style: normal;
+  color: rgb(233, 13, 104);
+}
